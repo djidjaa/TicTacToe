@@ -42,7 +42,7 @@ pip install pygame
 
 1. When you run the game, you will be prompted to choose whether you want to play as 'X' or 'O'.
 2. Click on the corresponding button to make your choice.
-3. The game board will be displayed, and you can make your moves by clicking on an empty cell.
+3. The game board will be displayed, and you can make your moves by clicking on an empty cell, because the first player is the user by default.
 4. The AI opponent will automatically make its moves.
 5. The game will continue until there is a winner, a draw, or you choose to quit.
 
