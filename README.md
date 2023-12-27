@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file that explains how to compile and use the Tic Tac Toe program using Pygame and Tkinter.
-
----
-
 # Tic Tac Toe Game
 
 ## Introduction
@@ -59,14 +55,10 @@ pip install pygame
 ## Restarting or Quitting the Game
 
 - After the game is over, a pop-up window will appear asking if you want to play again.
-- Click "Yes" to restart the game with the same symbol.
-- Click "No" to quit the game.
+- Click "oui" to restart the game with the same symbol.
+- Click "non" to quit the game.
 
 ## Scores
 
 - The scores are displayed in the end-of-game message in the format "Score: Player - Computer."
-- The scores are reset when you choose to quit the game.
-
----
-
-Feel free to customize the README file further based on your preferences and the specific details of your program.
+- The scores are reset when you choose to quit the game
