@@ -38,7 +38,7 @@ pip install pygame
 
    The game window will appear, and you can start playing Tic Tac Toe.
 
-## How to Play
+## How-to-Play
 
 1. When you run the game, you will be prompted to choose whether you want to play as 'X' or 'O'.
 2. Click on the corresponding button to make your choice.
